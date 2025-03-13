@@ -1,0 +1,55 @@
+2025-03-13 12:55:54,832 - INFO - Generated problem with a=2, b=71, result=1.42
+2025-03-13 12:55:54,834 - INFO - Successfully generated SVG file: percentage_problem.svg
+2025-03-13 12:59:38,794 - INFO - Generated problem with a=55, b=90, result=49.5
+2025-03-13 12:59:38,795 - INFO - Successfully generated SVG file: percentage_problem.svg
+2025-03-13 12:59:52,474 - INFO - Generated problem with a=50, b=32, result=16.0
+2025-03-13 12:59:52,476 - INFO - Successfully generated SVG file: percentage_problem.svg
+2025-03-13 13:02:45,748 - INFO - Generated problem with a=83, b=89, result=73.87
+2025-03-13 13:02:45,749 - INFO - Successfully generated SVG file: 83percent_of_89.svg
+2025-03-13 13:02:45,985 - ERROR - PNG conversion failed: no library called "cairo-2" was found
+no library called "cairo" was found
+no library called "libcairo-2" was found
+cannot load library 'libcairo.so.2': error 0x7e.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libcairo.so.2'
+cannot load library 'libcairo.2.dylib': error 0x7e.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libcairo.2.dylib'
+cannot load library 'libcairo-2.dll': error 0x7e.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libcairo-2.dll'
+2025-03-13 13:05:58,259 - INFO - Generated problem with a=24, b=11, result=2.64
+2025-03-13 13:05:58,261 - INFO - Successfully generated SVG file: 24percent_of_11.svg
+2025-03-13 13:05:58,497 - ERROR - PNG conversion failed: no library called "cairo-2" was found
+no library called "cairo" was found
+no library called "libcairo-2" was found
+cannot load library 'libcairo.so.2': error 0x7e.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libcairo.so.2'
+cannot load library 'libcairo.2.dylib': error 0x7e.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libcairo.2.dylib'
+cannot load library 'libcairo-2.dll': error 0x7e.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libcairo-2.dll'
+2025-03-13 13:08:32,695 - INFO - root - Generated problem with a=70, b=37, result=25.9
+2025-03-13 13:08:32,696 - INFO - __main__ - Successfully generated SVG file: 70percent_of_37.svg
+2025-03-13 13:08:32,782 - INFO - __main__ - Successfully generated PNG file: 70percent_of_37.png
+2025-03-13 13:11:28,897 - ERROR - __main__ - Unexpected error in main: no library called "cairo-2" was found
+no library called "cairo" was found
+no library called "libcairo-2" was found
+cannot load library 'libcairo.so.2': error 0x7e.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libcairo.so.2'
+cannot load library 'libcairo.2.dylib': error 0x7e.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libcairo.2.dylib'
+cannot load library 'libcairo-2.dll': error 0x7e.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libcairo-2.dll'
+2025-03-13 13:16:02,773 - INFO - root - Generated problem with a=54, b=95, result=51.3
+2025-03-13 13:16:02,774 - INFO - __main__ - Successfully generated SVG file: 54percent_of_95.svg
+2025-03-13 13:16:02,916 - INFO - __main__ - Successfully generated PNG file: 54percent_of_95.png
+2025-03-13 13:18:40,995 - INFO - __main__ - Successfully parsed input: 42.0% of 16.0
+2025-03-13 13:18:40,996 - INFO - root - Calculated problem: 42.0% of 16.0 = 6.72
+2025-03-13 13:18:40,998 - INFO - __main__ - Successfully generated SVG file: 42.0percent_of_16.0.svg
+2025-03-13 13:18:41,136 - INFO - __main__ - Successfully generated PNG file: 42.0percent_of_16.0.png
+2025-03-13 13:23:00,666 - INFO - __main__ - Generated random problem: 61.46% of 82.9
+2025-03-13 13:23:00,666 - INFO - root - Calculated problem: 61.46% of 82.9 = 50.950340000000004
+2025-03-13 13:23:00,668 - INFO - __main__ - Successfully generated SVG file: 61.46percent_of_82.9.svg
+2025-03-13 13:23:00,803 - INFO - __main__ - Successfully generated PNG file: 61.46percent_of_82.9.png
+2025-03-13 13:23:42,226 - INFO - __main__ - Generated random problem: 82.97% of 3.19
+2025-03-13 13:23:42,227 - INFO - root - Calculated problem: 82.97% of 3.19 = 2.6467430000000003
+2025-03-13 13:23:42,229 - INFO - __main__ - Successfully generated SVG file: 82.97percent_of_3.19.svg
+2025-03-13 13:23:42,280 - INFO - __main__ - Successfully generated PNG file: 82.97percent_of_3.19.png
+2025-03-13 13:23:54,738 - INFO - __main__ - Generated random problem: 86.09% of 54.7
+2025-03-13 13:23:54,738 - INFO - root - Calculated problem: 86.09% of 54.7 = 47.09123
+2025-03-13 13:23:54,739 - INFO - __main__ - Successfully generated SVG file: 86.09percent_of_54.7.svg
+2025-03-13 13:23:54,755 - INFO - __main__ - Successfully generated PNG file: 86.09percent_of_54.7.png
+2025-03-13 13:24:23,675 - ERROR - __main__ - Invalid input format: 7 is 15% of what?
+2025-03-13 13:24:39,034 - INFO - __main__ - Successfully parsed input: 15.0% of 60.0
+2025-03-13 13:24:39,034 - INFO - root - Calculated problem: 15.0% of 60.0 = 9.0
+2025-03-13 13:24:39,036 - INFO - __main__ - Successfully generated SVG file: 15.0percent_of_60.0.svg
+2025-03-13 13:24:39,055 - INFO - __main__ - Successfully generated PNG file: 15.0percent_of_60.0.png
