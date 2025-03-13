@@ -1,3 +1,10 @@
+# repo
+https://github.com/pleabargain/percentage-demo
+
+# why
+I saw this video and it rocked my basic understanding of math! 
+https://www.youtube.com/shorts/VLOou59juGo
+
 # Percentage Relationship Visualizer
 
 An interactive Python tool that demonstrates the mathematical principle where "a% of b equals b% of a". The tool generates visual representations in both SVG and PNG formats, with an interactive command-line interface.
