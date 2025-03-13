@@ -40,6 +40,7 @@ pip install -r requirements.txt
    - Download the latest `gtk3-runtime-x.x.x-x-x-x-x.exe`
    - Run the installer
    - Restart your computer after installation
+        I didn't have to restart FWIW
 
 #### Linux
 ```bash
